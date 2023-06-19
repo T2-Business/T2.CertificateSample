@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T2.CertificateSample", "T2.CertificateSample\T2.CertificateSample.csproj", "{75FC79A2-76A3-4518-9189-A27473C08B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2.CertificateSample.Web", "T2.CertificateSample.Web\T2.CertificateSample.Web.csproj", "{9A126781-8FB4-486D-BC3A-E8C309B6B1E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75FC79A2-76A3-4518-9189-A27473C08B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FC79A2-76A3-4518-9189-A27473C08B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FC79A2-76A3-4518-9189-A27473C08B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FC79A2-76A3-4518-9189-A27473C08B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A126781-8FB4-486D-BC3A-E8C309B6B1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A126781-8FB4-486D-BC3A-E8C309B6B1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A126781-8FB4-486D-BC3A-E8C309B6B1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A126781-8FB4-486D-BC3A-E8C309B6B1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D9C1756-B093-4BD2-B03E-858ABAECF17B}
+	EndGlobalSection
+EndGlobal

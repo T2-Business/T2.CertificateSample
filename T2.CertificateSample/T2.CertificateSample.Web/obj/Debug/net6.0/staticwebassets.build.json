@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+mYCQPUua/Y7UNk9zV0AweifCMPTsw1ClH7oQolKElo=",
+  "Source": "T2.CertificateSample.Web",
+  "BasePath": "_content/T2.CertificateSample.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
